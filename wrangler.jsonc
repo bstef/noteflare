@@ -48,9 +48,9 @@
     // the values in D1. To set them by hand instead: your team address
     // (https://your-team.cloudflareaccess.com) and the Access application's AUD tag.
     "ACCESS_TEAM_DOMAIN": "http://peacockengr.cloudflareaccess.com",
-    "ACCESS_AUD": "96187f69847743509f57033b3379d9ea5ee52f6f175b3cf92b85d3b2a61cfa86"
+    "ACCESS_AUD": "96187f69847743509f57033b3379d9ea5ee52f6f175b3cf92b85d3b2a61cfa86",
     // Optional second lock on top of the Access policy: emails or "@domain", comma-separated.
-    "ALLOWED_EMAILS": "bstef@peacockengr.com",""benjaminstef@gmail.com"
+    "ALLOWED_EMAILS": "bstef@peacockengr.com,benjaminstef@gmail.com",
     // Where to look for new releases ("owner/repo"). Use your fork, or "off" to disable.
     "UPDATE_CHECK_REPO": "bstef/noteflare"
   },
